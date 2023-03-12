@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Settings UI</string>
+    <string name="text_preference_key">text_preference</string>
+    <string name="text_preference_title">Text</string>
+    <string name="text_preference_summary">Enter the text to be displayed</string>
+    <string name="background_preference_key">background_preference</string>
+    <string name="background_preference_title">Background Color</string>
+    <string name="background_preference_summary">Select the background color for the text view</string>
+</resources>
